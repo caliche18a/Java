@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1c4de58-8b21-46ab-b29c-fb25ad4c2bc3" name="Changes" comment="" />
+    <list default="true" id="d475cb3f-b1ad-49f5-8b34-080bde600134" name="Changes" comment="Primer programa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2KsE8Bi6DKDHsH9467C24t90zNW" />
+  <component name="ProjectId" id="2KsG3FiBZp8zwNWeFKjmMapxNLb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,15 +29,22 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a1c4de58-8b21-46ab-b29c-fb25ad4c2bc3" name="Changes" comment="" />
-      <created>1674754730582</created>
+      <changelist id="d475cb3f-b1ad-49f5-8b34-080bde600134" name="Changes" comment="" />
+      <created>1674755677452</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1674754730582</updated>
-      <workItem from="1674754732439" duration="62000" />
-      <workItem from="1674755987006" duration="25000" />
-      <workItem from="1674777877861" duration="47000" />
+      <updated>1674755677452</updated>
+      <workItem from="1674755678821" duration="225000" />
+      <workItem from="1674755966944" duration="11000" />
     </task>
+    <task id="LOCAL-00001" summary="Primer programa">
+      <created>1674755802306</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674755802306</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -52,5 +60,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Proyecto2" />
+    <MESSAGE value="Primer programa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primer programa" />
   </component>
 </project>
